@@ -1,9 +1,22 @@
 # AndroidStudy
 
 # 扫描二维码下载APK示例：
-![image](http://upload-images.jianshu.io/upload_images/587163-f258a65074ff6b36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+![image](http://upload-images.jianshu.io/upload_images/587163-5cb2deb1fc640ff0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+或者 [点击此处链接下载APK](https://www.pgyer.com/G7G9)
 
 # 更新日志：
+
+**2017/07/30**
+ Android多线程之HandlerThread （ http://www.jianshu.com/p/6110d1e9c428 ）
+ 
+ **2017/07/30**
+ Android多线程之IntentService （ http://www.jianshu.com/p/643de16c9eef ）
+ 
+ **2017/07/30**
+ Android中Callable、Future、FutureTask的概念以及几种线程池的使用（ http://www.jianshu.com/p/fcefeea80171 ）
+
+**2017/07/14**
+ LruCache、DiskLruCache实现图片缓存，瀑布流 （ http://www.jianshu.com/p/e6631d2319a6 ）
 
 **2017/06/19**
  Android仿QQ小红点 （ http://www.jianshu.com/p/9f0736c24029 ）
@@ -26,6 +39,19 @@
   **2017/01/20**
  添加自定义View（饼形图）、自定义ViewGroup（五环图）
  
+ 
+ # Android多线程之HandlerThread、IntentService：
+ ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/HandlerThread.gif) 
+ ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/IntentService.gif) 
+ 
+ # Android中几种线程池的使用：
+ ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/CachedThreadPool.gif) 
+ ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/FixedThreadPool.gif) 
+ ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/SingleThreadExecutor.gif) 
+ ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/Schedule.gif) 
+ 
+ # LruCache、DiskLruCache实现图片缓存，瀑布流：
+ ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/ImgCache.gif) 
  
  # 仿QQ侧滑菜单、小红点：
   ![image]( https://github.com/crazyqiang/AndroidStudy/blob/master/pic/Swipe_menu.gif) 
